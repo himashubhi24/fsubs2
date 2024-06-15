@@ -7,7 +7,6 @@ pymongo
 motor
 umongo
 dnspython
-git+https://github.com/vpcreatz/pyrofork-adv.git
 marshmallow
 # --- For-Web-Response ------- #
 pytz
